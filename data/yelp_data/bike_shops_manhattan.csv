@@ -1,0 +1,91 @@
+id,alias,name,is_closed,review_count,rating,price,categories,latitude,longitude,address,city,zipcode,state,country
+2mXLfOxjTwUwOXY-63kvFA,tread-bike-shop-new-york,Tread Bike Shop,FALSE,93,4,$$,bikerentals|bikes,40.86636,-73.92854,250 Dyckman St,New York,10034,NY,US
+bzRrHOOnaepgAqoyOtzQrg,mannys-bicycle-shop-new-york,Mannys Bicycle Shop,FALSE,18,2.5,$$,bikes|bike_repair_maintenance,40.8508308,-73.9366673,8 Bennett Ave,New York,10033,NY,US
+pxTks8vqoqEPQIwC3O53ww,victors-bike-repair-new-york,Victors Bike Repair,FALSE,41,4.5,MISSING,bikerentals|bike_repair_maintenance,40.84605319,-73.93853879,4125 Broadway,New York,10033,NY,US
+6x5bQTCQR8FNv6iPWjtU9A,central-park-rent-bike-new-york,Central Park Rent Bike,FALSE,85,3.5,MISSING,bikerentals|biketours|walkingtours,40.76536,-73.97731,117 W 58th St,New York,10019,NY,US
+b_w1c664fg2TZV2h7pZY6g,junior-bicycle-shop-new-york-2,Junior Bicycle Shop,FALSE,20,4,$,bikes|bike_repair_maintenance,40.82884,-73.94537,1820 Amsterdam Ave,New York,10031,NY,US
+WM_Yx1Tf-c9g-mQ0BX8rrw,talent-cycles-manhattan,Talent Cycles,FALSE,64,4,$$,bike_repair_maintenance|bikerentals|bikes,40.821568,-73.9506633,502 W 139th St,New York,10031,NY,US
+um2BpHBOE95F23gLzgXXoQ,bike-new-york-new-york,Bike New York,FALSE,25,4.5,$,bikes,40.8111312,-73.9638738,475 Riverside Dr,New York,10115,NY,US
+00rrqw4O0Flfatd0VV6QAg,larrys-freewheeling-new-york-4,Larry's Freewheeling,FALSE,121,4.5,$$,bike_repair_maintenance|bikerentals|bikes,40.80111246,-73.95900601,301 Cathedral Pkwy,New York,10026,NY,US
+jTKhAiUlEJnCiNKrVl9lYw,heavy-metal-bike-shop-new-york,Heavy Metal Bike Shop,FALSE,35,4,$,bikerentals|bikes|bike_repair_maintenance,40.79472,-73.94274,2016 3rd Ave,New York,10029,NY,US
+jUY98iDWOHr43OrPye_EfQ,eduardos-bicycle-shop-new-york-2,Eduardos Bicycle Shop,FALSE,10,4,MISSING,bikes,40.793256,-73.940846,2131 2nd Ave,New York,10029,NY,US
+w_1a-NxtR3B40HQ4PjKQEw,aims-99-percent-store-new-york,AIMS 99 Percent Store,FALSE,5,4,MISSING,bike_repair_maintenance,40.80589,-73.94653,242 Lenox Ave,New York,10027,NY,US
+ZdZRc5zxiXRFfIA70nLb9A,i-bike-harlem-new-york,I Bike Harlem,FALSE,5,3.5,MISSING,bikerentals|biketours,40.8059212,-73.9467335,242 Lenox Ave,New York,10027,NY,US
+GhFDsXj5QWnSTTrbBrKfHQ,unlimited-biking-new-york-9,Unlimited Biking,FALSE,3,2.5,MISSING,bikerentals|biketours,40.7988,-73.952825,111 W 110th St,New York,10026,NY,US
+Dzr4xHHtMixMe3umIjgasA,champion-bicycles-new-york,Champion Bicycles,FALSE,44,4,$,bikerentals|bikes|sportswear,40.7990489,-73.9667399,896 Amsterdam Ave,New York,10025,NY,US
+8s89Dj61Ly-pD3VuXix_gA,innovations-bike-shop-new-york,Innovations Bike Shop,FALSE,29,4.5,$$,bikes|bikerentals,40.79955,-73.96318,105 W 106th St,New York,10025,NY,US
+1V2SUs9Y8vBB2YaQ81_A-w,city-bike-coach-new-york,City Bike Coach,FALSE,1,5,$$$,bikes,40.79757,-73.96776,,New York,10025,NY,US
+4LQnOyQDxvcPZqBVx5w2SA,js-cycle-new-york,JS Cycle,FALSE,43,4.5,$,bikes|bike_repair_maintenance,40.80054855,-73.95498657,1842 Adam Clayton Powell Jr Blvd,New York,10026,NY,US
+r3dTFTCIk1H5sRVky4xIgA,trek-bicycles-new-york-city,Trek Bicycles,FALSE,6,3.5,MISSING,bikes,40.794645,-73.971261,231 W 96th St,New York City,10025,NY,US
+JZnkYuesxHla72hRnrmnsw,eddies-bicycles-shop-new-york,Eddie's Bicycles Shop,FALSE,27,3.5,$$,bikerentals|bikes,40.78627,-73.97645,490 Amsterdam Ave,New York,10024,NY,US
+g883WwLuUnXm2vAvMly-OA,bicycle-renaissance-new-york-3,Bicycle Renaissance,FALSE,79,3,$$$,bikes,40.78319,-73.97504,430 Columbus Ave,New York,10024,NY,US
+ooUGk2_U_6lTUKxRWLQmQw,central-park-tours-and-bike-rentals-central-park,Central Park Tours & Bike Rentals,FALSE,7,3,MISSING,bikerentals|biketours|pedicabs,40.7623,-73.97667,40W 55th St 1F,Central Park,10019,NY,US
+6yYk-JopVGSIIfT8yzVG9w,central-park-sightseeing-new-york-3,Central Park Sightseeing,FALSE,221,3.5,MISSING,tours|bikerentals,40.763252,-73.976994,56 W 56th St,New York,10019,NY,US
+wN6qVSygUdRPWblnyqW3mQ,master-bike-shop-new-york,Master Bike Shop,FALSE,117,4,$$,bikerentals|bikes,40.77986145,-73.98386383,265 W 72nd St,New York,10023,NY,US
+u3__2seiOvi7UA2IxhLx0g,trek-new-york-city,Trek,FALSE,1,5,MISSING,bikes|tires|bike_repair_maintenance,40.77808995,-73.98086004,156 W 72nd St,New York City,10023,NY,US
+GOQp_cTyffdrSyoBjtUEEA,bike-rental-central-park-new-york-4,Bike Rental Central Park,FALSE,8,3.5,MISSING,bikerentals|biketours,40.7692323,-73.9825508,9 W 60th St,New York,10023,NY,US
+tBGchHdYeek7EmpG6lr8DA,toga-bikes-shop-new-york,Toga Bikes Shop,FALSE,161,3,$$$,bikerentals|bikes|bike_repair_maintenance,40.77481,-73.98786,110 W End Ave,New York,10023,NY,US
+hiqIh1pCiQFKI4jTPbJ47g,trek-bicycle-upper-east-side-new-york-city,Trek Bicycle Upper East Side,FALSE,2,5,MISSING,bikes|bike_repair_maintenance|bikerentals,40.77865,-73.95085,1690 2nd Ave,New York City,10128,NY,US
+n4YHCDxWp07DicFxOcLzlw,bicycles-nyc-new-york-2,Bicycles NYC,FALSE,97,4.5,$$$,bikes|bikerentals,40.77482,-73.95731,1400 3rd Ave,New York,10075,NY,US
+kmhnPL37s59AybhN1fO02g,bike-the-big-apple-tours-new-york,Bike the Big Apple Tours,FALSE,19,5,MISSING,tours|bikerentals,40.76450348,-73.96297455,,New York,10065,NY,US
+W3aYaHrU03QQ7XW7IcLUcw,spokesman-cycles-east-side-new-york,Spokesman Cycles East Side,FALSE,24,2.5,$$,bikerentals|bikes|bike_repair_maintenance,40.76061101,-73.96311535,313 E 60th St,New York,10022,NY,US
+#NAME?,citi-bike-new-york-6,Citi Bike,FALSE,435,2.5,MISSING,bikerentals|bikesharing|biketours,40.764305,-73.97294,5th Ave & 59th St,New York,10019,NY,US
+XnBflxEeUp0C-MefpSSTMg,liberty-cycles-new-york-2,Liberty Cycles,FALSE,158,4.5,$,bikes|bikerentals|bike_repair_maintenance,40.76674,-73.986318,846 9th Ave,New York,10019,NY,US
+fe9kmZIdLyp59uCMTME_pA,nyc-bike-rental-new-york-2,NYC Bike Rental,FALSE,27,5,MISSING,bikerentals|pedicabs,40.76604498,-73.97993215,912 7th Ave,New York,10019,NY,US
+1UWas5yBjj8IPJVAGGk2Tg,unlimited-biking-new-york-11,Unlimited Biking,FALSE,4,4,MISSING,bikerentals|biketours,40.76724266,-73.98421496,346 W 57th St,New York,10019,NY,US
+NCS1NFpd_GF74bRlQV51pA,fancy-apple-new-york-2,Fancy Apple,FALSE,20,3.5,MISSING,bikerentals|biketours|pedicabs,40.76472,-73.98119,870 7th Ave,New York,10019,NY,US
+0XzlfDJB8H4mO3fKlZyGXQ,bike-rent-nyc-new-york,Bike Rent NYC,FALSE,81,3.5,MISSING,bikerentals|biketours,40.7664193,-73.9797209,203 W 58th St,New York,10019,NY,US
+AhzbsRvrMG7bQ6CRbRK1bw,central-park-tours-new-york-2,Central Park Tours,FALSE,10,3.5,MISSING,tours|bikerentals,40.7646838,-73.9812123,870 7th Ave,New York,10019,NY,US
+gc6RPOOjtUNkte_4Dg23FQ,bike-rent-nyc-brooklyn-bridge-bike-rent-new-york,Bike Rent NYC - Brooklyn Bridge Bike Rent,FALSE,12,2,MISSING,bikerentals|biketours,40.71143,-74.00633,145 Nassau St,New York,10038,NY,US
+mzOiZocTZozq18VLRZigxw,crescent-bike-new-york,Crescent Bike,FALSE,2,1,MISSING,bikerentals|tours,40.76719,-73.98454,320 57th St,New York,10019,NY,US
+LCsvHORwlDbJSpwGxTRBkw,als-cycle-solutions-new-york,Al's Cycle Solutions,FALSE,85,4,$$,bikerentals|bikes|bike_repair_maintenance,40.763156,-73.993301,693 10th Ave,New York,10036,NY,US
+j0TlhwjiY1xcwGajXR3ApQ,nyc-velo-new-york-2,NYC VELO,FALSE,25,4,$$$,bikes|bike_repair_maintenance|bikerentals,40.7625003,-73.9966601,590 W 45th St,New York,10036,NY,US
+76IAF2UvErGFAink8MIBSA,zen-bikes-new-york,Zen Bikes,FALSE,226,4.5,$$,bikes|bike_repair_maintenance,40.74413,-73.99393,134 W 24th St,New York,10011,NY,US
+r1U_JNxMPTVk77SIpQdBww,gogo-gone-new-york,GoGo Gone,FALSE,23,4.5,$$,bike_repair_maintenance|bikes,40.71706708,-73.99105176,317 Grand St,New York,10002,NY,US
+dTzOBUqeytXr0Ny_MU5_bA,bike-man-new-york,Bike Man,FALSE,17,4.5,$$,bikes|bike_repair_maintenance,40.717949,-73.985023,174 Delancey St,New York,10002,NY,US
+qusgE-6INmbeNu7ZfMAglQ,midtown-bicycle-shop-new-york,Midtown Bicycle Shop,FALSE,1,1,MISSING,bike_repair_maintenance,40.7631416,-73.9770813,56 W 56th St,New York,10019,NY,US
+TdS19y7v0E0A16k7DGVpYA,unlimited-biking-new-york-7,Unlimited Biking,FALSE,65,3.5,MISSING,bikerentals|biketours,40.763205,-73.9770399,56 W 56th St,New York,10019,NY,US
+V-wNwa6aXYTErvELfQDZCg,cycle-haus-mobile-bike-shop-new-york-2,Cycle Haus - Mobile Bike Shop,FALSE,2,5,MISSING,bike_repair_maintenance,40.69984,-73.42031,,New York,11701,NY,US
+hZQVMdgrQ4lSp5b1ddQNpQ,velofix-new-york,velofix,FALSE,1,5,MISSING,bike_repair_maintenance,40.71455,-74.00714,,New York,11249,NY,US
+YUiHRGoywWT2lD7tXRpTpQ,bike-rent-nyc-new-york-2,Bike Rent NYC,FALSE,45,2,MISSING,bike_repair_maintenance|biketours,40.7623,-73.97667,40 W 55th St,New York,10019,NY,US
+_Gj1fZHFM2Vev3hzs3eVyA,bike-rental-nyc-manhattan,Bike Rental NYC,FALSE,7,2.5,MISSING,tours|bikerentals,40.76546,-73.97724,117 W 58th St,Manhattan,10019,NY,US
+C61MbgZmEKRKou3Qw2dyNQ,cycle-central-park-new-york,Cycle Central Park,FALSE,5,2.5,MISSING,tours|bikerentals,40.7631447,-73.977083,54 W 56th St,New York,10019,NY,US
+Y2vbaQdhP6ALJrhGYpkFQg,kickstand-bicycles-new-york,Kickstand Bicycles,FALSE,126,5,$$,bikes|bike_repair_maintenance|bikerentals,40.75372,-73.96815,316 E 49th St,New York,10017,NY,US
+fp-zSkRVDQtqQqOjgQrm3Q,conrads-bike-shop-new-york,Conrad's Bike Shop,FALSE,31,4,$$$,bikerentals|bikes,40.74864197,-73.97051239,25 Tudor City Pl,New York,10017,NY,US
+DpAO4gzlnHI2VR4T4asN3w,city-bicycles-new-york,City Bicycles,FALSE,47,4,$$,bikerentals|bikes,40.7551382,-73.9923058,307 W 38th St,New York,10018,NY,US
+6ecUpdxfFPMGc-oAPf6Wbw,spokesman-cycles-new-york,Spokesman Cycles,FALSE,57,2,$$$,bikes,40.750724,-73.985724,49 W 36th St,New York,10018,NY,US
+QcV0baz6V_d6AJ7mi4WE7w,rollgood-new-york,Rollgood,FALSE,12,3,$$,bikes,40.75059,-73.98435,16 W 37th St,New York,10018,NY,US
+serRgVkaNLDNZ2GNi1HNqQ,enochs-bike-shop-new-york,Enoch's Bike Shop,FALSE,40,4,$,bikerentals|bikes,40.75635955,-73.99772924,480 10th Ave,New York,10018,NY,US
+Psft3AnOqtSPsf_oJuhY7g,blazing-saddles-bike-rentals-and-tours-new-york-4,Blazing Saddles Bike Rentals & Tours,FALSE,7,5,MISSING,bikerentals|biketours,40.76290326,-73.99973338,557 12th Ave,New York,10036,NY,US
+bk3fR7dyESDZ4DOaQbF-Ww,roula-cycling-new-york,Roula Cycling,FALSE,3,5,MISSING,bikerentals,40.75792173,-74.00479976,408 12th Ave,New York,10018,NY,US
+Y5FKIZqg0PVa96N3JcYtXw,nyc-racquet-sports-new-york,NYC Racquet Sports,FALSE,61,5,$$,sportgoods,40.75123273,-73.9889992,157 W 35th St,New York,10001,NY,US
+gyd5P7rsmQJNVi2iefqxBQ,bicycle-habitat-new-york,Bicycle Habitat,FALSE,253,3.5,$$,bikerentals|bikes|bike_repair_maintenance,40.74443,-73.99563,228 7th Ave,New York,10011,NY,US
+6-8mPcAw_E6nw8iq5rLnCg,sids-bikes-nyc-new-york,Sid's Bikes NYC,FALSE,140,3.5,$$$,bikes,40.74133942,-73.99652481,151 W 19th St,New York,10011,NY,US
+9dSmioBfQ_We564SCRzs4Q,trek-bicycle-chelsea-new-york,Trek Bicycle Chelsea,FALSE,3,3,MISSING,bikes,40.7431513,-74.0002337,183 8th Ave,New York,10011,NY,US
+EcONn1mPa-LbGSY8anl6Xw,paragon-sports-new-york,Paragon Sports,FALSE,625,3.5,$$$,outdoorgear|sportswear|shoes,40.73775962,-73.990331,867 Broadway,New York,10003,NY,US
+SPmteHwY_fOu619EnzlgWQ,echelon-cycles-new-york,Echelon Cycles,FALSE,73,4,$$,bikes|bikerentals|bike_repair_maintenance,40.73864159,-74.00391028,51 8th Ave,New York,10014,NY,US
+AA7U-jkHEWH3nvwncDsQxw,waterfront-bicycle-shop-new-york,Waterfront Bicycle Shop,FALSE,84,4.5,$,bikerentals|bikes,40.7328461,-74.0101625,391 West St,New York,10014,NY,US
+xs1FuKHvYl9V1ZKUMDBz5g,brompton-junction-new-york,Brompton Junction,FALSE,6,5,MISSING,bikerentals|bikes|bike_repair_maintenance,40.73204623,-74.00337115,287 Bleecker St,New York,10014,NY,US
+25QAd6kmZvyDZMaS-cNmXQ,trek-bicycle-stuyvesant-town-new-york,Trek Bicycle Stuyvesant Town,FALSE,2,5,MISSING,bikes|bike_repair_maintenance|bikerentals,40.73319,-73.98086,288 1st Ave,New York,10009,NY,US
+-4qS1PjthLyXIM8L3MN-HA,cc-cyclery-new-york-3,CC Cyclery,FALSE,38,5,$$,bike_repair_maintenance|bikes,40.7289323,-73.979519,530 E 13th St,New York,10009,NY,US
+u3DShnHnbCCe2LytZj4yWw,rapha-new-york-new-york,Rapha - New York,FALSE,27,4,$$$,sportswear|coffee|bikes,40.72613,-74.00113,159 Prince St,New York,10012,NY,US
+Wv44aaW2Z_BdN-ezG55Eiw,rei-new-york,REI,FALSE,232,4,$$,outdoorgear,40.72481395,-73.99520471,303 Lafayette St,New York,10012,NY,US
+HdEwDk5wyjaLIvuhG9Awrw,new-bo-bo-bicycle-new-york-3,New Bo Bo Bicycle,FALSE,102,5,$,bike_repair_maintenance|bikes,40.7185173,-73.9956284,96 Elizabeth St,New York,10013,NY,US
+nKrWiY1r3CvCrXyrHRbBKw,priority-bicycles-new-york,Priority Bicycles,FALSE,6,5,$$,bikes,40.7224007,-74.007782,174 Hudson St,New York,10013,NY,US
+O9_nLuCvSSLxtHUZWQis2A,flykly-electric-bicycles-prince,FlyKly Electric Bicycles,FALSE,9,1.5,$$$$,bikes,40.72016853,-74.00094509,447 Broadway,New York City,10012,NY,US
+Lop47NYZAv6i9ooB8UfkLA,nyc-velo-new-york,NYC Velo,FALSE,163,4,$$,bikerentals|bikes,40.7258824,-73.9893093,66 2nd Ave,New York,10003,NY,US
+jPbaEjWifuJ7cv5G2gy07A,times-up-new-york,Time's Up,FALSE,4,4,MISSING,bikes,40.72454,-73.99471,49 E Houston St,New York,10012,NY,US
+Frb0cbeDRUWP98CctvQJww,trek-bicycle-bowery-new-york-2,Trek Bicycle Bowery,FALSE,1,5,MISSING,bikes|bike_repair_maintenance,40.72456222,-73.99220584,303 Bowery,New York,10003,NY,US
+sR6xqwCJEwHnPN6pIavysQ,joulvert-ebikes-new-york,Joulvert ebikes,FALSE,5,2.5,MISSING,bikes|bike_repair_maintenance,40.71988,-73.99497,354 Broome St,New York,10013,NY,US
+HdIVfBulzaIedZ6suPKI4w,busy-bee-bike-new-york,Busy Bee Bike,FALSE,47,2.5,$$,bikes,40.725911,-73.98446,437 E 6th St,New York,10009,NY,US
+J2DePkWTS0RT7gAloLuyig,hilltop-bicycles-new-york,Hilltop Bicycles,FALSE,1,4,MISSING,bikes,40.71703862,-73.98575306,128 Clinton St,New York,10022,NY,US
+DOFebHYJg_UQtM1sBO9x9Q,gotham-fix-new-york,Gotham Fix,FALSE,1,5,MISSING,bike_repair_maintenance,40.71568,-74.009562,Chambers St,New York,10007,NY,US
+AUYEy41RAcQvgoQLLUaxNg,shinola-new-york-2,Shinola,FALSE,39,4,$$$,watches|leather|bikes,40.7193309,-74.0095025,177 Franklin St,New York,10013,NY,US
+Vz2cj7e9Xhazb3zERAU9mw,dah-shop-new-york,Dah Shop,FALSE,48,5,$,bikes,40.71448646,-73.99171561,134 Division St,New York,10002,NY,US
+8z9lEIKr-_uDASFqPA5Vfg,off-the-bridge-new-york-2,Off The Bridge,FALSE,59,5,$,coffee|bike_repair_maintenance,40.715106,-73.9929513,72 Canal St,New York,10002,NY,US
+Bx8ehoADpRaytuHBp34ZgQ,flat-fix-new-york-3,Flat fix,FALSE,23,4.5,MISSING,bike_repair_maintenance|wheelrimrepair|tires,40.71898082,-73.9907641,103 Allen St,New York,10002,NY,US
+no6rfkFEtxF0JrDTFb4BQA,hao-jian-tou-bicycle-new-york,Hao Jian Tou Bicycle,FALSE,2,3,MISSING,bike_repair_maintenance|bikes,40.71591,-73.99301,46 Eldridge St,New York,10002,NY,US
+h9G8NmpDt4qqYVkfcIU_tQ,unlimited-biking-new-york-12,Unlimited Biking,FALSE,5,3.5,MISSING,bikerentals|biketours|partybikerentals,40.7117466,-74.0063733,38 Park Row,New York,10038,NY,US
+xFZ87JLExpZKghSV2l6GdQ,brooklyn-bridge-sightseeing-new-york,Brooklyn Bridge Sightseeing,FALSE,21,3.5,MISSING,bikerentals|biketours|walkingtours,40.7115866,-74.0066803,38 Park Row,New York,10038,NY,US
+VV0SxSboEqsmKOt9_0surg,blazing-saddles-bike-rentals-and-tours-new-york-3,Blazing Saddles Bike Rentals & Tours,FALSE,28,4.5,MISSING,bikerentals|tours,40.70592887,-74.00295138,93 South St,New York,10038,NY,US
+b0PPbzfNY6dgghfDt7ld2w,franks-bike-shop-new-york,Frank's Bike Shop,FALSE,82,4,$,bikerentals|bikes,40.71393,-73.98031,553 Grand St,New York,10002,NY,US

@@ -1,0 +1,72 @@
+id,alias,name,is_closed,review_count,rating,price,categories,latitude,longitude,address,city,zipcode,state,country
+Mh4ZWZMgahAI_1xu-0VXWw,silk-road-cycles-brooklyn,Silk Road Cycles,FALSE,96,5,$$,bikes|bike_repair_maintenance,40.72723,-73.95686,76 Franklin St,Brooklyn,11222,NY,US
+jtZZP2PXsg-uIbvH-f6xdA,kween-kargo-bike-shop-brooklyn,Kween Kargo Bike Shop,FALSE,24,5,$,bike_repair_maintenance|bikes,40.729298,-73.959311,79A West St,Brooklyn,11222,NY,US
+AWLXZPJbKnh_2vWuFvMbpA,bs-bikes-brooklyn,B's Bikes,FALSE,235,4.5,$$,bikes,40.72277,-73.94835,262 Driggs Ave,Brooklyn,11222,NY,US
+#NAME?,brooklyn-machine-works-brooklyn,Brooklyn Machine Works,FALSE,4,3,$$$$,bikes,40.710062,-73.935599,324 Stagg St,Brooklyn,11206,NY,US
+W1hh8k2cRCH-RmLBD-twyg,ride-brooklyn-brooklyn-2,Ride Brooklyn,FALSE,66,4,$$,bike_repair_maintenance|bikerentals|bikes,40.720372,-73.96208,50 N 7th St,Brooklyn,11249,NY,US
+MZHAHjKlYgp1dnNAqUZi5g,king-kog-brooklyn,King Kog,FALSE,59,4.5,$$,bikes|bike_repair_maintenance,40.7113203,-73.9447886,696 Grand St,Brooklyn,11211,NY,US
+EIY9Jt2cJ7ZC4I3ayqYPZw,bicycle-doctor-brooklyn,Bicycle Doctor,FALSE,61,3.5,MISSING,bike_repair_maintenance,40.71488599,-73.96192844,133 Grand St,Brooklyn,11211,NY,US
+jO1wMlhXO_dJ6_BKRr87NQ,sun-and-air-brooklyn,SUN AND AIR,FALSE,18,5,$$,bike_repair_maintenance|bikerentals|bikes,40.711529,-73.961587,788 Driggs Ave,Brooklyn,11211,NY,US
+qNKBHoUUEJtRLTzgb7z_fw,different-spokes-brooklyn,Different Spokes,FALSE,18,3.5,$$,bikes,40.709868,-73.958058,252 S 4th St,Brooklyn,11211,NY,US
+BAQ4xFdC-16_D9HCGyIqhA,vanmoof-brooklyn-brooklyn,VanMoof Brooklyn,FALSE,9,3.5,$$$,bikes,40.7150949,-73.9648114,326 Wythe Ave,Brooklyn,11249,NY,US
+LwZpmufObFMm7anNCP1gKA,bike-ahead-brooklyn,Bike Ahead,FALSE,15,2.5,$$$$,bikes|bike_repair_maintenance,40.707188,-73.9547409,386 Broadway,Brooklyn,11211,NY,US
+It79qhHFHbxomVJRrrV32g,spokes-and-strings-brooklyn,Spokes & Strings,FALSE,16,2.5,MISSING,bikerentals,40.71201,-73.95743,140 Havemeyer St,Brooklyn,11211,NY,US
+pD9piFqDaqSBhYRod3WJ6w,brooklyn-bike-peddler-brooklyn,Brooklyn Bike Peddler,FALSE,43,3.5,$$,bikerentals|bikes|bike_repair_maintenance,40.715931,-73.949386,636 Lorimer St,Brooklyn,11211,NY,US
+teu31O88TtokjFdzs_Y5PA,graham-bicycle-discount-center-brooklyn,Graham Bicycle Discount Center,FALSE,19,4,$,bikes,40.70783,-73.9431199,178 Graham Ave,Brooklyn,11206,NY,US
+Bh-t1DYazOt_FWTrG1j8ww,bike-works-brooklyn,Bike Works,FALSE,34,4,MISSING,bike_repair_maintenance,40.71084,-73.96735,35 Broadway,Brooklyn,11249,NY,US
+qfr5sUE0_tfoLwfVG-EUyQ,propel-electric-bikes-brooklyn,Propel Electric Bikes,FALSE,19,4,$$$,bikes,40.6977406,-73.97118263,134 Flushing Ave,Brooklyn,11205,NY,US
+ZBRz5FJMG7-G4wGW2UpHyQ,deluxe-cycles-brooklyn,Deluxe Cycles,FALSE,1,5,MISSING,bike_repair_maintenance|bikes,40.697243,-73.968934,16 Waverly Ave,Brooklyn,11205,NY,US
+19o2Oy83HtFt0kOmsSzTpg,bicycle-station-brooklyn,Bicycle Station,FALSE,146,4.5,$,bikes|bike_repair_maintenance,40.696367,-73.972663,171 Park Ave,Brooklyn,11205,NY,US
+nbDSFILklgmE5NfQjTGZlg,brooklyn-giro-bike-tours-brooklyn-2,Brooklyn Giro Bike Tours,FALSE,7,4.5,MISSING,biketours,40.704059,-73.981736,160 John St,Brooklyn,11201,NY,US
+ljMNjC_1RJGnWv_HuVP1fg,redbeard-bikes-brooklyn,Redbeard Bikes,FALSE,62,4.5,$$,bikes|bike_repair_maintenance,40.70263005,-73.98655858,69 Jay St,Brooklyn,11201,NY,US
+HFUFdfOE1cN4XR_9CY2zhA,shinola-brooklyn,Shinola,FALSE,8,4.5,$$$,leather|watches|bikes,40.7034549,-73.9927474,49 Water St,Brooklyn,11201,NY,US
+CVLRrxr1ZpHbr_Au3pKoCw,atlantic-bicycles-brooklyn-2,Atlantic Bicycles,FALSE,21,3.5,$$,bikes|bike_repair_maintenance,40.688618,-73.989883,278 Atlantic Ave,Brooklyn,11201,NY,US
+9UOojE04Xpn0GgABQ6pPkw,maglia-rosa-nyc-union-street-brooklyn,Maglia Rosa NYC - Union Street,FALSE,23,4.5,$$,bike_repair_maintenance|bikes|sportswear,40.684833,-74.003686,103 Union St,brooklyn,11231,NY,US
+M9pfmfhaBRu7_9TpmAyERA,dog-day-cyclery-brooklyn,Dog Day Cyclery,FALSE,40,3.5,$$,bikes,40.68462,-74.00509,115 Van Brunt St,Brooklyn,11231,NY,US
+cdKURFG0gnTD3oaWQa4N0Q,rolling-orange-bikes-brooklyn-2,Rolling Orange Bikes,FALSE,24,4,MISSING,bikerentals,40.68574,-73.9938109,269 Baltic St,Brooklyn,11201,NY,US
+igzNsSQlWbwmZFkTWpzWGw,the-bike-shop-brooklyn,The Bike Shop,FALSE,34,3.5,$,bikerentals|bikes|bike_repair_maintenance,40.67629,-73.99899,514 Court St,Brooklyn,11231,NY,US
+CXM-ta9Dc9Tsz-TrcB4IaQ,sanba-bicycle-shop-brooklyn,Sanba Bicycle Shop,FALSE,5,5,MISSING,bikes|bike_repair_maintenance,40.65154,-74.00383,884 5th Ave,Brooklyn,11232,NY,US
+ogF1cDce6fkzU7aFsKD0ew,maglia-rosa-nyc-industry-city-brooklyn-4,Maglia Rosa NYC - Industry City,FALSE,22,3.5,$,coffee|bikes|italian,40.6567298,-74.00562098,920 3rd Ave,Brooklyn,11232,NY,US
+LnQSpda6OOW5UW9uXvWrqA,i-and-m-bicycle-shop-brooklyn,I & M Bicycle Shop,FALSE,15,4.5,$,bike_repair_maintenance|bikes,40.64796623,-74.01544679,274 50th St,Brooklyn,11220,NY,US
+_cZcc6eqUvqL2by6L1wBrQ,greenpath-electric-bikes-brooklyn-2,Greenpath Electric Bikes,FALSE,19,4,$$,bikes,40.65224877,-74.01007469,757 4th Ave,Brooklyn,11232,NY,US
+wlo7xLccmbe26HSHxzV6FA,bay-ridge-bicycle-world-brooklyn,Bay Ridge Bicycle World,FALSE,83,4.5,$$,bikes|bike_repair_maintenance,40.621071,-74.032358,8916 3rd Ave,Brooklyn,11209,NY,US
+YADo9hRxXs-gyVyDIQ8Tww,bushwick-bicycles-brooklyn,Bushwick Bicycles,FALSE,36,4.5,$$,bikes,40.69882,-73.91425,308 Irving Ave,Brooklyn,11237,NY,US
+PjiPxVU3u7DwE6smupHG_w,haven-cycles-brooklyn-3,Haven Cycles,FALSE,35,5,$,bike_repair_maintenance|bikes|bikerentals,40.70275783,-73.92052978,1546 DeKalb Ave,Brooklyn,11237,NY,US
+mskuFtdiZbwosOjCiqfK6A,no-name-bike-sales-brooklyn,No Name Bike Sales,FALSE,6,4,$,bikes,40.69157791,-73.91862488,510 Evergreen,Brooklyn,11221,NY,US
+1T3MTw3yNQhMEx9BA0KfCg,nbkc-north-brooklyn-cycles-brooklyn,NBKC - North Brooklyn Cycles,FALSE,42,3,$,bikes|bike_repair_maintenance|bikerentals,40.7050577,-73.9290583,121 Knickerbocker Ave,Brooklyn,11237,NY,US
+acQnT_plRFD1apQLZHa5_g,bravos-bike-repair-brooklyn,Bravo's Bike Repair,FALSE,29,4.5,$,bikes,40.69949,-73.92333,187 Wilson Ave,Brooklyn,11237,NY,US
+u3mp7LeliQUodoNC08M90g,rajels-electric-bike-and-bicycle-repair-bushwick,Rajel's Electric Bike & Bicycle Repair,FALSE,9,4,$$,bike_repair_maintenance|bikes,40.699826,-73.928725,122 Central Ave,Bushwick,11221,NY,US
+Ta6Ojgs2xYzY-3EVX4IVCw,coast-cycles-new-york,Coast Cycles,FALSE,1,5,MISSING,bikes,40.698162,-73.931896,50 Troutman St,Brooklyn,11206,NY,US
+O2l_Ne68cmg03Mp6YM6tdw,the-bike-truck-carroll-gardens,The Bike Truck,FALSE,44,5,$$,bikes|bike_repair_maintenance,40.683776,-73.989891,216 Hoyt St,Carroll Gardens,11217,NY,US
+2dzPqExgfhEwvU0o1WMmPg,glorified-bicycles-brooklyn,Glorified Bicycles,FALSE,1,5,MISSING,bikes,40.6783,-73.98711,473 C President St,Brooklyn,11215,NY,US
+RCKVKfF-9F1br_XH_xBYKw,urban-cycles-brooklyn-6,Urban Cycles,FALSE,3,5,MISSING,bikes|bike_repair_maintenance,40.693257,-73.966174,478 Myrtle Ave,Brooklyn,11205,NY,US
+YLyPSmkM54K6JV_G9Mhocw,squarebuilt-brooklyn,SquareBuilt,FALSE,2,5,MISSING,bikes,40.69545,-73.94751,868 Myrtle Ave,Brooklyn,11206,NY,US
+5PYiQIn1189UIZ2WHMVG0A,harvest-cyclery-vintage-and-used-bicycle-shop-brooklyn,Harvest Cyclery- Vintage & Used Bicycle Shop,FALSE,50,4.5,$,bike_repair_maintenance|bikes,40.69697571,-73.93370819,1158 Myrtle Ave,Brooklyn,11221,NY,US
+zllMm7azovUjN-zvnHlF3w,bicycle-habitat-brooklyn,Bicycle Habitat,FALSE,126,4,$$,bikes|bikerentals|bike_repair_maintenance,40.668267,-73.987433,476 5th Ave,Brooklyn,11215,NY,US
+x3HL7_F8Z_9_l0koJY2bsg,behind-bars-in-brooklyn-brooklyn,Behind Bars in Brooklyn,FALSE,70,4.5,$$,bike_repair_maintenance|bikes,40.66383,-73.99113,610 5th Ave,Brooklyn,11215,NY,US
+CRGUiRELrqw2B4X2lW8SLw,ride-brooklyn-brooklyn,Ride Brooklyn,FALSE,212,4.5,$$,bikerentals|bikes|outdoorgear,40.680846,-73.975861,468 Bergen St,Brooklyn,11217,NY,US
+2bK_FxSR9GU_eeHfRC4aPA,dixons-bicycle-shop-brooklyn,Dixon's Bicycle Shop,FALSE,106,4,$$,bikes,40.674583,-73.976425,792 Union St,Brooklyn,11215,NY,US
+uOPZjUIzYlaVNmDW6TmfQw,718-cyclery-brooklyn-2,718 Cyclery,FALSE,118,4.5,$$,bikes|bikerentals|biketours,40.678165,-73.985624,254 3rd Ave,Brooklyn,11215,NY,US
+ukPP3m3yqEuSBQiCK01cXQ,r-and-a-cycles-brooklyn,R&A Cycles,FALSE,206,2.5,$$$$,bikes,40.6794,-73.97828,105 5th Ave,Brooklyn,11217,NY,US
+JaMR4QVCeEouA6TyPyL1NQ,acme-bicycle-co-brooklyn-2,Acme Bicycle Co,FALSE,8,5,$$$$,bikes,40.679467,-73.983612,597 Degraw St,Brooklyn,11217,NY,US
+T7cW3jzsHIc_e2fkGqIcdg,bicycle-habitat-brooklyn-2,Bicycle Habitat,FALSE,37,4,$$$,bikes|bike_repair_maintenance|bikerentals,40.67991257,-73.96839905,560 Vanderbilt Ave,Brooklyn,11238,NY,US
+HDS8dsIImsLNF9-X5pfZ7A,terrifics-bikes-and-videos-brooklyn,Terrific's Bikes & Videos,FALSE,11,3.5,$$,bikes|bike_repair_maintenance,40.68639,-73.91611,1547 Broadway,Brooklyn,11221,NY,US
+oJt3QQCx2APgsjw9zuZDNg,jc-bicycles-brooklyn,JC Bicycles,FALSE,12,4,MISSING,bikes,40.67871275,-73.9244609,3 Buffalo Ave,Brooklyn,11233,NY,US
+LznPvq03PyXc1Zzj_RhI8g,roys-sheepshead-cycle-brooklyn,Roy's Sheepshead Cycle,FALSE,163,4.5,$$,bikes|outdoorgear|bike_repair_maintenance,40.5912056,-73.96026611,2679 Coney Island Ave,Brooklyn,11235,NY,US
+EBhzcgZswkGi4cj0Hb2HYQ,verrazano-bicycle-shop-brooklyn,Verrazano Bicycle Shop,FALSE,60,3.5,$$,bikes|bike_repair_maintenance,40.630894,-74.022396,7308 5th Ave,Brooklyn,11209,NY,US
+4UI9M50FKURLDLaWzxxPFw,nachos-bikes-shop-brooklyn,Nachos Bikes Shop,FALSE,1,4,$$,bikes,40.63842138,-74.01698961,,Brooklyn,11220,NY,US
+giW0V31WrrkNGtSpMH4BqQ,mr-cs-cycles-brooklyn,Mr. C's Cycles,FALSE,62,4,$$,bikerentals|bikes|bike_repair_maintenance,40.6443643,-74.0042553,4622 7th Ave,Brooklyn,11220,NY,US
+cD4rAwhaZbeufSL8Xs3UIg,arnolds-bicycles-and-trains-brooklyn,Arnolds Bicycles & Trains,FALSE,11,4.5,$,sportgoods|bikerentals,40.64535,-73.99969,4220 8th Ave,Brooklyn,11232,NY,US
+Dxvbde8UvyZ_CjnVd1cAEQ,fulton-bikes-brooklyn,Fulton Bikes,FALSE,56,4,$$,bikes|bikerentals|bike_repair_maintenance,40.68284,-73.9629999,997 Fulton St,Brooklyn,11238,NY,US
+7WpiFQpKwFR2oTYg0oBM1A,bicycle-roots-brooklyn,Bicycle Roots,FALSE,93,4.5,$$,bike_repair_maintenance|bikes,40.676346,-73.949608,609 Nostrand Ave,Brooklyn,11216,NY,US
+WMdW6IEySXvsDT5_yCDWtA,l-and-l-cycles-brooklyn,L&L Cycles,FALSE,7,5,MISSING,bikes,40.67800894,-73.94709069,58 New York Ave,Brooklyn,11216,NY,US
+lv8l_FPiV0G8m8RIbFScGA,bike-life-brooklyn,Bike Life,FALSE,39,2,$,bikes,40.66073,-73.96109,56 Lincoln Rd,Brooklyn,11225,NY,US
+7m80ePRicrg2RbyrLICJxw,eddie-cs-bike-institute-brooklyn-2,Eddie C's Bike Institute,FALSE,3,3.5,MISSING,bike_repair_maintenance,40.67274072,-73.97101587,Union St & Prospect Park W,Brooklyn,11215,NY,US
+Tx4qutljwVRY2DqKrx2PAQ,i-and-m-2-brooklyn,I & M # 2,FALSE,2,5,MISSING,bikes|bike_repair_maintenance,40.64595,-73.97218,733 Church Ave,Brooklyn,11218,NY,US
+swW6L6q1ti9Q8QuEInSECw,jack-of-all-trades-ny-brooklyn,Jack of all Trades NY,FALSE,1,5,MISSING,bike_repair_maintenance|locksmiths,40.64040504,-73.98633175,3905 13th Ave,Brooklyn,11218,NY,US
+2AM5rVjQ8jibePd7aVtEhA,brooklyn-bicycle-center-brooklyn,Brooklyn Bicycle Center,FALSE,126,3.5,$$,bikes,40.641042,-73.968956,673 Coney Island Ave,Brooklyn,11218,NY,US
+KNiyMUuw_89zow8eGdHDSA,two-friends-bike-repair-kensington,Two Friends Bike Repair,FALSE,23,5,MISSING,bike_repair_maintenance,40.6361088,-73.9761397,658A E 3rd St,Kensington,11218,NY,US
+id4e3sHRDyWZtvbgz4ZbKg,ferrara-cycle-shop-brooklyn,Ferrara Cycle Shop,FALSE,10,2.5,$$,bikerentals|bikes,40.61763,-73.98491,6304 20th Ave,Brooklyn,11204,NY,US
+bbj6gdtb_mlU6eFxYtwL-w,bay-parkway-bicycle-brooklyn,Bay Parkway Bicycle,FALSE,9,3.5,MISSING,bike_repair_maintenance,40.61243,-73.97853,2315 65th St,Brooklyn,11204,NY,US
+SJIkyK-FfqKuNaTkVxHXjQ,michaels-professional-bike-repair-brooklyn-2,Michael's Professional Bike Repair,FALSE,1,5,MISSING,bike_repair_maintenance,40.60268281,-73.97163284,,Brooklyn,11223,NY,US
+RAnRiAsWN1jIQaiP-AcgVQ,larrys-cycle-shop-brooklyn,Larry's Cycle Shop,FALSE,22,4.5,$$,bikes|bike_repair_maintenance,40.62447,-73.93908,1854 Flatbush Ave,Brooklyn,11210,NY,US
